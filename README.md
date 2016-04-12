@@ -2,5 +2,5 @@
 Testing Github
 ##Project Description
 ###SOW
-*KPI
-*Data Extraction
+* KPI
+* Data Extraction
